@@ -1,7 +1,7 @@
 DATA-SCIENCE_PROJECTS-1
 Predict Credit Consumption of Customer for Leading Bank.
 
-Business Objective: The data from a credit card processor shows the consumer types and their business spending behaviors. Therefore, companies can develop the marketing campaigns that directly address consumers’ behavior. In return, this helps to make better sales and the revenue undoubtedly grows greater sales.
+BUSINESS OBJECTIVE: The data from a credit card processor shows the consumer types and their business spending behaviors. Therefore, companies can develop the marketing campaigns that directly address consumers’ behavior. In return, this helps to make better sales and the revenue undoubtedly grows greater sales.
 
 Solution Data Pipelines.
 1) Import packages which are crucial, then read respective data files, after that merge all data files into one file by using pd.merge().
