@@ -17,5 +17,4 @@ Solution Data Pipelines.
 11) Now we have built a Model using OLS ie. Ordinary Least Square method.
 12) Now it's time to determine various metrics on train & test datasets to check for Error Distribution, then save the model using Pickle object with this we complete Model Building Process.
 13) Now to optimize the operations to improve the performance of Credit Card Consumption we need to apply different machine learning algorithms such as Random Forest, XGBoost, SVM.
-14) 
 .................................................................................................................................
